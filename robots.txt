@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aquoogh.prcin.org/sitemap.xml
